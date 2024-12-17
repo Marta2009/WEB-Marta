@@ -1,0 +1,47 @@
+body {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    min-height: 100svh;
+    min-height: -webkit-fill-available;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(226, 215, 193);
+}
+#superior {
+    display: flex;
+    height: 8vmax;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+    color: white;
+    background-color: rgb(191, 240, 223);
+}
+#seccio_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+    color: white;
+    background-color: rgb(255, 212, 196);
+}
+#seccio_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+    color: white;
+    background-color: rgb(213, 243, 160);
+}
+#seccio_3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+    color: white;
+    background-color: rgb(216, 188, 243);
+}
+#menu{
+    height: 8vmax;
+}
